@@ -3,5 +3,5 @@ layout: page
 title: Home
 ---
 
-## TODO
+## Computational Evolution Lab
 
