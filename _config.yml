@@ -1,7 +1,8 @@
 title: Computational Evolution Lab
 description: Lab Website for the Cevolab
 show_downloads: false
-theme: jekyll-theme-minima
+#theme: jekyll-theme-minima
+theme: minima
 repository: cevo-lab/cevo-lab.github.io
 baseurl: /
 
